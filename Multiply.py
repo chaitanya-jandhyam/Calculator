@@ -1,6 +1,4 @@
-a=input("enter number")
-b=input("enter number")
-
-def multiply(a,b) 
+class multiply():
+    a=input("enter number")
+    b=input("enter number"
     return a*b
-multiply()
