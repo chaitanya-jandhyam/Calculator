@@ -1,6 +1,5 @@
-def add_numbers(x,y):
-    sum = x + y
-    return sum
-num1 =input("enter the numbers")
-num2 = input("enter the number")
-print("The sum is", add_numbers(num1, num2))
+class Add():
+    A =input("enter the first number")
+    B =input("enter the second number")
+    return A+B 
+
