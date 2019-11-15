@@ -1,6 +1,5 @@
-a=int(input("Enter the divisor"))
-b=int(input("Enter another divident "))
-def division():
-  print(float(a/b))
+class division():
+  a=float(input("Enter the Divisor"))
+  b=float(input("Enter another Divident "))
+  return float(a/b)
   
-division()
